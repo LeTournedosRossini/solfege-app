@@ -1,4 +1,4 @@
-import{a as i}from"./chunk-WSUMZ6U7.js";import{c as l,d as o,f as u}from"./chunk-TGZ5YTCG.js";import"./chunk-VSYJGVI3.js";import"./chunk-IGARKBRQ.js";import"./chunk-YXS3FW5N.js";import"./chunk-WL5TCO2S.js";import"./chunk-IZUYVIPG.js";var c=[{id:"portee-cles",html:`
+import{a as i}from"./chunk-SJ6CTYNU.js";import{c as l,d as o,f as u}from"./chunk-TTXCFKA5.js";import"./chunk-WS6U4LMI.js";import"./chunk-IGARKBRQ.js";import"./chunk-YXS3FW5N.js";import"./chunk-WL5TCO2S.js";import"./chunk-IZUYVIPG.js";var c=[{id:"portee-cles",html:`
       <p>La <strong>port\xE9e</strong> est l'espace de travail du musicien qui lit ou \xE9crit de la musique : cinq lignes horizontales, parall\xE8les et r\xE9guli\xE8rement espac\xE9es, num\xE9rot\xE9es de 1 (en bas) \xE0 5 (en haut). Les notes se placent aussi bien sur les lignes que dans les espaces qui les s\xE9parent \u2014 cela donne neuf positions de base, d\xE9j\xE0 largement suffisantes pour une m\xE9lodie simple.</p>
       <div class="figure-wrap">
         <div class="abc-notation" id="abc-empty-staff" data-abc="0"></div>
