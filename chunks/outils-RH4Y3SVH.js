@@ -1,4 +1,4 @@
-import{a as F}from"./chunk-JYYRXKK6.js";import"./chunk-IHRIUEAN.js";var S=(i,p)=>`<a class="crumb" href="${i}">\u2190 ${p}</a>`;function D(i){i.innerHTML=`
+import{a as F}from"./chunk-JYYRXKK6.js";import"./chunk-IZUYVIPG.js";var S=(i,p)=>`<a class="crumb" href="${i}">\u2190 ${p}</a>`;function D(i){i.innerHTML=`
     ${S("#/outils","Outils")}
     <div class="section-head"><h2>M\xE9tronome</h2></div>
     <div class="tool-shell">

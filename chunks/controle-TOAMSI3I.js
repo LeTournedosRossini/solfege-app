@@ -1,4 +1,4 @@
-import{d as n,e as i,g as u}from"./chunk-W3JR4FXL.js";import"./chunk-B4PFCCND.js";import"./chunk-IHRIUEAN.js";var o=[{id:"c01",routes:["#/cours/portee-cles"],abc:`L:1
+import{c as n,d as i,f as u}from"./chunk-TGZ5YTCG.js";import"./chunk-VSYJGVI3.js";import"./chunk-IGARKBRQ.js";import"./chunk-YXS3FW5N.js";import"./chunk-WL5TCO2S.js";import"./chunk-IZUYVIPG.js";var o=[{id:"c01",routes:["#/cours/portee-cles"],abc:`L:1
 K:C clef=none
 y`,desc:{clef:"none",key:0,time:null,measures:[[{gap:!0,d:"whole",dots:0}]],width:400}},{id:"c02",routes:["#/cours/portee-cles"],abc:`L:1
 K:C clef=treble
